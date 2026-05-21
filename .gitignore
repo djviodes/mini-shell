@@ -1,0 +1,4 @@
+build/
+MiniShellExe
+.DS_Store
+*.o
